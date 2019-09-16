@@ -1,12 +1,8 @@
 {
   "name": "webapp-boilerplate",
   "version": "1.0.0",
-  "description": "A simple SiteVision WebApp boilerplate",
+  "description": "SiteVision WebApp boilerplate",
   "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/sitevision/webapp-boilerplate.git"
-  },
   "scripts": {
     "setup": "node util/setup.js",
     "zip": "node util/zip.js",
@@ -18,10 +14,6 @@
   },
   "license": "MIT",
   "author": "SiteVision AB",
-  "bugs": {
-    "url": "https://github.com/sitevision/webapp-boilerplate/issues"
-  },
-  "homepage": "https://github.com/sitevision/webapp-boilerplate#readme",
   "devDependencies": {
     "inquirer": "^7.0.0",
     "jsonfile": "^5.0.0",
