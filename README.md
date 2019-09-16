@@ -1,4 +1,5 @@
-# webapp-boilerplate
+# Cleaned up Sitevisions boilerplate, more specificly the components and settings folder.
+## webapp-boilerplate
 Boilerplate code for a simple WebApp
 ## Prerequisites
 * A web page running on a SiteVision server
