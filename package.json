@@ -1,7 +1,7 @@
 {
   "name": "webapp-boilerplate",
   "version": "1.0.0",
-  "description": "SiteVision WebApp boilerplate",
+  "description": "A WebApp boilerplate",
   "main": "index.js",
   "scripts": {
     "setup": "node util/setup.js",
@@ -13,7 +13,7 @@
     "prod-deploy": "node util/prod-deploy.js"
   },
   "license": "MIT",
-  "author": "SiteVision AB",
+  "author": "SiteVision AB, modified by Elias Abrache",
   "devDependencies": {
     "inquirer": "^7.0.0",
     "jsonfile": "^5.0.0",

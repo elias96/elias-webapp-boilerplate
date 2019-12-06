@@ -1,4 +1,4 @@
-# Cleaned up Sitevisions boilerplate, more specificly the components and settings folder.
+# A Clean Sitevision Webapp boilerplate.
 ## webapp-boilerplate
 Boilerplate code for a simple WebApp
 ## Prerequisites
