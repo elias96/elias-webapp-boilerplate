@@ -1,9 +1,9 @@
 {
-   "id": "myWebApp",
+   "id": "eliastemplate",
    "version": "0.0.1",
-   "name": "WebApp boilerplate",
-   "author": "SiteVision AB",
+   "name": "Clean WebApp boilerplate",
+   "author": "Elias Abrache",
    "description": "A WebApp boilerplate",
-   "helpUrl": "https://help.sitevision.se",
+   "helpUrl": "",
    "type": "WebApp"
 }
